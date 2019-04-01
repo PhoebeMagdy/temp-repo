@@ -1,1 +1,2 @@
-# Welcome to the NGS temp repo
+hello this is my first change
+hello this is second change
